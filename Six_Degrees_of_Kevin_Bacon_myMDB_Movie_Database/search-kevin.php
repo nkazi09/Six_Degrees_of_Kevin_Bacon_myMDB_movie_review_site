@@ -1,8 +1,7 @@
 <?php include("common.php"); ?>
 
 <!--
-Nadia Kazi, CSE 190M,
-May 02, 2012, Section: MJ
+Nadia Kazi
 The purpose of this file is to create a page that prints the results as a list,
 a list of movies that the given actor performed with keven beacon. A multiple 
 massages gets printed depending on if the given actor is not found on the databases
