@@ -1,8 +1,7 @@
 <?php include("common.php"); ?>
 
 <!--
-Nadia Kazi, CSE 190M,
-May 02, 2012, Section: MJ
+Nadia Kazi
 The purpose of this file is to crate a page that shows a list of all the movies
 that a given actor has appeared. And if the actor is not on the databases then
 the page will show a massage that the actor is not found. 
