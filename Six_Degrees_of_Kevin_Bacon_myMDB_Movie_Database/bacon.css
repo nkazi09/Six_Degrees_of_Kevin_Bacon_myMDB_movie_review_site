@@ -1,0 +1,54 @@
+/*
+Nadia Kazi, CSE 190M,
+May 02, 2012, Section: MJ
+*/
+
+#frame {
+margin-left: auto;
+margin-right: auto;
+width: 90%;
+background-color: white;
+box-shadow: 0 0 4px 4px #999999;
+}
+
+body {
+	margin: 0px;
+	background-color: #dad9d4;	
+	font-size: 11pt;
+	font-family: Verdana, sans-serif;
+}
+
+#w3c, #banner {
+	padding: .7em;
+	color: white;
+	font-weight: bold;
+	background-image: url('http://www.cs.washington.edu/education/courses/cse190m/12sp/homework/5/banner-background.png');
+}
+
+form {
+	margin-left: auto;
+	margin-right: auto;
+	width: 24em;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+#main {
+	text-align: center;
+	padding: 1em;
+}
+
+table {
+	border: 1px solid #dad9d4;
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+}
+
+tr:nth-child(even) {
+	background-color: #dad9d4;
+}
+
+
+
